@@ -1,0 +1,14 @@
+#paragraph_1
+			{
+			color: green;
+			}
+			#paragraph_2{
+			text-decoration: underline;
+			}
+			.paragraph-1
+			{
+				color: blue;
+			}
+			button:hover{
+			color: orange;
+			}
